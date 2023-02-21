@@ -24,7 +24,7 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
-	"theme": "ayu-mirage.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"ignored_packages": ["Vintage",
 	],
