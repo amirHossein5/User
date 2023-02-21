@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"auto-save",
+		"AutomaticPackageReloader",
+		"ayu",
+		"DocBlockr",
+		"FileManager",
+		"GitHub Theme",
+		"go-import",
+		"JavaIME",
+		"JavaImports",
+		"JsPrettier",
+		"Laravel Blade AutoComplete",
+		"Laravel Blade Highlighter",
+		"LSP",
+		"LSP-gopls",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Monokai++",
+		"Package Control",
+		"Package Reloader",
+		"PHP Companion",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Sync Settings",
+		"Tailwind CSS Autocomplete",
+		"Terminus",
+		"Theme - Afterglow",
+	],
+	// "http_proxy": "localhost:9050",
+	"repositories":
+	[
+		"https://github.com/amirhossein5/go-import",
+	],
+}

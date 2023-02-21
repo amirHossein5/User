@@ -1,0 +1,9 @@
+{
+    "vet": {
+        // If true, vet will run on post save.
+        //
+        // When you disable post save run, you'll have to run
+        // it manaully via the command pallette, or add a keybinding.
+        "run_on_post_save": false,
+    }
+}

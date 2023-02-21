@@ -1,0 +1,35 @@
+{
+	// By default, auto complete will commit the current completion on enter.
+	// This setting can be used to make it complete on tab instead.
+	// Completing on tab is generally a superior option, as it removes
+	// ambiguity between committing the completion and inserting a newline.
+	"auto_complete_commit_on_tab": true,
+	// "ui_scale": 0.9,
+	"auto_complete_selector": "source, text",
+	"caret_style": "phase",
+	"ensure_newline_at_eof_on_save": true,
+	"findreplace_small": true,
+	"font_face": "JetBrains Mono",
+	"font_size": 11,
+	"highlight_line": false,
+	"hot_exit": false,
+	"line_numbers": true,
+	"line_padding_bottom": 8,
+	"line_padding_top": 8,
+	"remember_open_files": false,
+	"show_definitions": false,
+	"show_panel_on_build": true,
+	"tab_size": 4,
+	"tabs_small": false,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false,
+	"theme": "ayu-mirage.sublime-theme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"ignored_packages": ["Vintage",
+	],
+	// Sets whether the indexer should exclude files ignored by git
+	"index_exclude_gitignore": false,
+
+	"show_sidebar_button": false,
+}

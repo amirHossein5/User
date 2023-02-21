@@ -1,0 +1,18 @@
+[
+    { "keys": ["f6"], "command": "expand_fqcn" },
+    { "keys": ["alt+e"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+    { "keys": ["alt+i"], "command": "find_use" },
+    { "keys": ["alt+i"], "command": "go_import" },
+    { "keys": ["alt+e"], "command": "go_import_erase_unused" },
+    { "keys": ["f4"], "command": "import_namespace" },
+    { "keys": ["shift+f12"], "command": "goto_definition_scope" },
+    { "keys": ["ctrl+b"], "command": "toggle_side_bar" },
+    { "keys": ["alt+up"], "command": "swap_line_up" },
+    { "keys": ["alt+down"], "command": "swap_line_down" },
+    { "keys": ["ctrl+shift+down"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    {
+        "keys": ["ctrl+alt+t"], "command": "terminus_open"
+    },
+    { "keys": ["ctrl+alt+s"], "command": "js_prettier" }
+]
