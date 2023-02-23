@@ -9,7 +9,7 @@
     "show_view_status": false,
     "diagnostics_panel_include_severity_level": 0,
     // "show_code_actions_in_hover": false,
-    // "show_diagnostics_highlights": false,
+    "show_diagnostics_highlights": false,
     // "show_symbol_action_links": false,
     "inhibit_word_completions": false,
     "lsp_format_on_save": true
