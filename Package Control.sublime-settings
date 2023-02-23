@@ -29,6 +29,6 @@
 	// "http_proxy": "localhost:9050",
 	"repositories":
 	[
-		"https://github.com/amirstr/go-import",
+		"https://github.com/amirHossein5/go-import",
 	],
 }
