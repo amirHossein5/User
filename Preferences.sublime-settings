@@ -1,4 +1,5 @@
 {
+	"gtk_client_side_window_decorations": false,
 	// By default, auto complete will commit the current completion on enter.
 	// This setting can be used to make it complete on tab instead.
 	// Completing on tab is generally a superior option, as it removes
