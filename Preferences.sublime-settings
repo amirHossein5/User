@@ -11,7 +11,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"findreplace_small": true,
 	"font_face": "monolisa",
-	"font_size": 11,
+	"font_size": 12,
 	"highlight_line": false,
 	"hot_exit": false,
 	"line_numbers": true,
