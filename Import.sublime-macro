@@ -1,0 +1,4 @@
+[
+    { "command": "find_use" },
+    { "command": "go_import" },
+]
